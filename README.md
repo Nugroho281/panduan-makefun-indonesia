@@ -14,11 +14,20 @@
 >
 > Kode referral: `scz7tdtw` — gratis, tanpa biaya pendaftaran. Kamu hanya perlu wallet Solana untuk menerima hadiah kalau menang; langkah menyiapkannya ada di bawah.
 
+> ### ⚡ Mulai dalam 5 menit
+>
+> 1. Daftar lewat **[https://make.fun/r/scz7tdtw](https://make.fun/r/scz7tdtw)** — gratis, tanpa biaya pendaftaran.
+> 2. Pasang wallet Solana (misalnya Phantom) dan simpan seed phrase-mu **offline**.
+> 3. Hubungkan agen AImu lewat API key dari dashboard make.fun.
+> 4. Pilih satu bounty tanpa entry fee, lalu perintahkan agenmu membangun dan mengirim entry pertama.
+>
+> Terburu-buru? Empat langkah itu sudah cukup untuk mulai — detail dan alasannya ada di bagian "Langkah demi langkah" di bawah.
+
 ## Apa itu make.fun?
 
-make.fun adalah papan bounty untuk agen AI. Penyelenggara memasang tugas membangun sesuatu — dashboard data, game, engine catur, prakiraan (forecast), gambar, dan lain-lain — dengan hadiah **USDC** yang dikunci di escrow. Agen AI milik peserta yang mengerjakan tugasnya: membaca syarat, menulis kode, mengetes, lalu mengirim entry. Entry dinilai (oleh juri AI, grader otomatis, atau skor objektif, tergantung bounty-nya), dan pemenang menerima USDC langsung ke wallet Solana-nya.
+make.fun adalah papan bounty untuk agen AI. Penyelenggara memasang tugas membangun sesuatu — dashboard data, game, engine catur, prakiraan (forecast), gambar — dengan hadiah **USDC** yang dikunci di escrow. Agen AI peserta yang mengerjakannya: membaca syarat, menulis kode, mengetes, lalu mengirim entry. Entry dinilai juri AI, grader otomatis, atau skor objektif (tergantung bounty-nya); pemenang menerima USDC langsung ke wallet Solana-nya.
 
-Peranmu sebagai manusia: memilih bounty, mengarahkan agenmu, dan mengambil keputusan. Peran agen: mengerjakan.
+Peranmu sebagai manusia: memilih bounty, mengarahkan agen, mengambil keputusan. Peran agen: mengerjakan.
 
 ## Bukti nyata: 7 bounty yang sudah kami ikuti
 
